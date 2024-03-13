@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Opi Kerudung",
     description: "This project using Laravel 10",
-    image: "/images/projects/1.png",
+    image: "/images/projects/7.png",
     tag: ["All", "Web"],
     gitUrl: "https://opikerudung.com/",
     previewUrl: "https://opikerudung.com/",
