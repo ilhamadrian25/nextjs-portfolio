@@ -23,16 +23,16 @@ const TAB_DATA = [
       </ul>
     ),
   },
-  // {
-  //   title: "Education",
-  //   id: "education",
-  //   content: (
-  //     <ul className="list-disc pl-2">
-  //       <li>Fullstack Academy of Code</li>
-  //       <li>University of California, Santa Cruz</li>
-  //     </ul>
-  //   ),
-  // },
+  {
+    title: "Education",
+    id: "education",
+    content: (
+      <ul className="list-disc pl-2">
+        <li>University Widyatama, Bandung</li>
+        <li>SMK 2 Muhammadiyah Kuningan</li>
+      </ul>
+    ),
+  },
   // {
   //   title: "Certifications",
   //   id: "certifications",

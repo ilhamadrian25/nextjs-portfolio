@@ -7,12 +7,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "Opi Kerudung",
+    description: "This project using Laravel 10",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://opikerudung.com/",
+    previewUrl: "https://opikerudung.com/",
   },
   {
     id: 2,
