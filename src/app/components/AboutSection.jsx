@@ -9,17 +9,14 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>PHP</li>
-        <li>JavaScript</li>
-        <li>Dart</li>
+        <li>Java [Springboot]</li>
+        <li>JavaScript / Typescript [Express.js, Next.js, Angular, React.js, NestJs]</li>
         <li>Node.js</li>
-        <li>Express</li>
-        <li>PostgreSQL</li>
-        <li>Sequelize</li>
-        <li>React</li>
-        <li>Laravel</li>
-        <li>Flutter</li>
-        <li>Prisma</li>
+        <li>Dart [Flutter]</li>
+        <li>ORM [Hibernate, Sequelize, PrismaORM, TypeORM]</li>
+        <li>DBMS [MySQL, MongoDB, PostgreSQL]</li>
+        <li>PHP [Laravel & Codeigniter]</li>
+        <li>Tools [nginx, docker]</li>
       </ul>
     ),
   },
@@ -29,7 +26,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>University Widyatama, Bandung</li>
-        <li>SMK 2 Muhammadiyah Kuningan</li>
+        <li>SMK Muhammadiyah 2 Kuningan</li>
       </ul>
     ),
   },
