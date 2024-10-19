@@ -16,7 +16,7 @@ const TAB_DATA = [
         <li>ORM [Hibernate, Sequelize, PrismaORM, TypeORM]</li>
         <li>DBMS [MySQL, MongoDB, PostgreSQL]</li>
         <li>PHP [Laravel & Codeigniter]</li>
-        <li>Tools [nginx, docker, apache kafka]</li>
+        <li>Tools [nginx, docker, apache kafka, jenkins]</li>
       </ul>
     ),
   },
